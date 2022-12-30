@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Tanmay Rao",
+      "email": "rao_tanmay.it@ghrce.raisoni.net",
+      "mobile": "9284030911",
+      "address": "Nagpur",
+      "services": "GHRCE"
+    },
+    {
+      "id": 2,
+      "name": "Jayant Tumdam",
+      "email": "tumdam_jayant.it@ghrce.raisoni.net",
+      "mobile": "2323456789",
+      "address": "Nagpur",
+      "services": "GHRCE"
+    },
+    {
+      "id": 3,
+      "name": "Rohit Tabhane",
+      "email": "tabhane_rohit.it@ghrce.raisoni.net",
+      "mobile": "4532780912",
+      "address": "Nagpur",
+      "services": "GHRCE"
+    },
+    {
+      "id": 4,
+      "name": "Saloni Bargat",
+      "email": "bargart_saloni.it@ghrce.raisoni.net",
+      "mobile": "5612450910",
+      "address": "Nagpur",
+      "services": "GHRCE"
+    }
+  ],
+  "signup": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "mobile": "1234567890",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "name": "admin2",
+      "email": "admin2@gmail.com",
+      "mobile": "1234567890",
+      "password": "admin",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
