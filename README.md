@@ -1,27 +1,28 @@
-# NewApp
+# Employee Records App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+### AngularJs and Json Server is used.
 
-## Development server
+## Login Page:
+![image](https://user-images.githubusercontent.com/78204872/210047856-479d2107-81ae-4227-894a-fe8c96ed52ef.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Signup Page:
+![image](https://user-images.githubusercontent.com/78204872/210047922-556643ba-e160-46c1-99cd-1799ee0ddc3c.png)
 
-## Code scaffolding
+## Dashboard Page:
+![image](https://user-images.githubusercontent.com/78204872/210048005-019234cf-fc15-462c-ab9d-dee83b0005a3.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Add Records Window:
+![image](https://user-images.githubusercontent.com/78204872/210048047-ebbcfc91-9fcb-40ad-b683-9e07cdf88beb.png)
 
-## Build
+## Update Records Window:
+![image](https://user-images.githubusercontent.com/78204872/210048116-83de355a-b624-4039-90e0-8826d853ad9a.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Json Server:
+![image](https://user-images.githubusercontent.com/78204872/210048297-c5a0d859-73c6-4217-a6cd-b4bfe4901333.png)
+![image](https://user-images.githubusercontent.com/78204872/210048399-64921c41-9133-4e0d-a522-616c8e4732c4.png)
 
-## Running unit tests
+## Demo:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+https://user-images.githubusercontent.com/78204872/210048550-a96d7eb4-ba66-4363-b3c9-6804cf133367.mp4
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
